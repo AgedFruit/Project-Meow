@@ -2,7 +2,7 @@
 
 
 ## Code Commits:  
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/PamesJeat/Project-Meow?color=green&label=Version&style=for-the-badge)  
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/PamesJeat/Project-Meow?color=brightgreen&label=Version&style=for-the-badge)  
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/PamesJeat/Project-Meow?style=for-the-badge)
 
