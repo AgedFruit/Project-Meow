@@ -9,7 +9,7 @@ public class test : MonoBehaviour
     {
         
     }
-
+    //my comment is better
     // Update is called once per frame
     void Update()
     {
